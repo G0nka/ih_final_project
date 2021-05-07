@@ -1,0 +1,114 @@
+,PLAN,ISIN,VALOR,CUPON,FEC_VTO,NOM,MATURITY,YRS_TO_MAT
+0,u101,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,146493,2023,3
+1,u101,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,245400,2024,4
+2,u101,CASH,Maintain Cash allocation,5,2021,2808947,2021,1
+3,u101,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,5124263,2022,2
+0,u102,CASH,Maintain Cash allocation,5,2021,39748451,2021,1
+1,u102,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,33947969,2028,8
+2,u102,GEN_CORP_BOND_2030,Generic corporate bond with maturity 2030,5,2030,30697101,2030,10
+3,u102,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,26544928,2027,7
+4,u102,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,25218995,2026,6
+0,u103,CASH,Maintain Cash allocation,5,2021,13105616,2021,1
+1,u103,GEN_CORP_BOND_2033,Generic corporate bond with maturity 2033,5,2033,4584913,2033,13
+2,u103,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,4164823,2031,11
+0,u104,CASH,Maintain Cash allocation,5,2021,15788862,2021,1
+1,u104,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,10502868,2022,2
+2,u104,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,8274892,2024,4
+3,u104,GEN_CORP_BOND_2025,Generic corporate bond with maturity 2025,5,2025,7537283,2025,5
+4,u104,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,5825690,2023,3
+0,u105,GEN_CORP_BOND_2048,Generic corporate bond with maturity 2048,5,2048,8029025,2048,28
+0,u108,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,1475623,2022,2
+1,u108,GEN_CORP_BOND_2025,Generic corporate bond with maturity 2025,5,2025,987245,2025,5
+2,u108,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,778458,2027,7
+3,u108,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,756051,2023,3
+4,u108,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,686545,2028,8
+0,u109,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,10537755,2023,3
+1,u109,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,6173384,2024,4
+2,u109,GEN_CORP_BOND_2035,Generic corporate bond with maturity 2035,5,2035,5997056,2035,15
+3,u109,GEN_CORP_BOND_2038,Generic corporate bond with maturity 2038,5,2038,5985587,2038,18
+4,u109,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,5521934,2026,6
+0,u110,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,20146265,2024,4
+1,u110,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,14014611,2023,3
+2,u110,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,13711544,2022,2
+3,u110,GEN_CORP_BOND_2035,Generic corporate bond with maturity 2035,5,2035,10783517,2035,15
+4,u110,GEN_CORP_BOND_2038,Generic corporate bond with maturity 2038,5,2038,8265844,2038,18
+0,u120,GEN_CORP_BOND_2044,Generic corporate bond with maturity 2044,5,2044,9349791,2044,24
+1,u120,GEN_CORP_BOND_2047,Generic corporate bond with maturity 2047,5,2047,3091990,2047,27
+0,u121,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,12427717,2022,2
+0,u125,CASH,Maintain Cash allocation,5,2021,49921042,2021,1
+1,u125,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,7364198,2027,7
+2,u125,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,5990307,2031,11
+3,u125,GEN_CORP_BOND_2038,Generic corporate bond with maturity 2038,5,2038,5911758,2038,18
+4,u125,GEN_CORP_BOND_2034,Generic corporate bond with maturity 2034,5,2034,5624162,2034,14
+0,u130,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,4221686,2026,6
+1,u130,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,2915187,2027,7
+2,u130,GEN_CORP_BOND_2034,Generic corporate bond with maturity 2034,5,2034,2280387,2034,14
+3,u130,GEN_CORP_BOND_2036,Generic corporate bond with maturity 2036,5,2036,1863899,2036,16
+4,u130,GEN_CORP_BOND_2033,Generic corporate bond with maturity 2033,5,2033,1826765,2033,13
+0,u202,CASH,Maintain Cash allocation,5,2021,2877267,2021,1
+1,u202,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,2695254,2022,2
+2,u202,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,2511404,2023,3
+3,u202,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,2342328,2024,4
+4,u202,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,1954805,2027,7
+0,u206,GEN_CORP_BOND_2030,Generic corporate bond with maturity 2030,5,2030,15025420,2030,10
+1,u206,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,13398034,2031,11
+2,u206,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,13367866,2028,8
+3,u206,GEN_CORP_BOND_2033,Generic corporate bond with maturity 2033,5,2033,11288423,2033,13
+0,u207,GEN_CORP_BOND_2035,Generic corporate bond with maturity 2035,5,2035,2395891,2035,15
+1,u207,GEN_CORP_BOND_2029,Generic corporate bond with maturity 2029,5,2029,2206883,2029,9
+2,u207,GEN_CORP_BOND_2038,Generic corporate bond with maturity 2038,5,2038,1654577,2038,18
+3,u207,GEN_CORP_BOND_2036,Generic corporate bond with maturity 2036,5,2036,1302082,2036,16
+4,u207,GEN_CORP_BOND_2034,Generic corporate bond with maturity 2034,5,2034,1181830,2034,14
+0,u210,GEN_CORP_BOND_2025,Generic corporate bond with maturity 2025,5,2025,24704564,2025,5
+1,u210,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,24386090,2026,6
+2,u210,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,24144361,2023,3
+3,u210,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,24048354,2027,7
+4,u210,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,23641409,2024,4
+0,u220,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,108507,2022,2
+1,u220,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,88082,2031,11
+2,u220,GEN_CORP_BOND_2030,Generic corporate bond with maturity 2030,5,2030,74720,2030,10
+3,u220,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,38859,2028,8
+4,u220,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,36395,2027,7
+0,u221,CASH,Maintain Cash allocation,5,2021,440108,2021,1
+1,u221,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,332554,2022,2
+2,u221,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,279838,2026,6
+3,u221,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,167423,2024,4
+4,u221,GEN_CORP_BOND_2025,Generic corporate bond with maturity 2025,5,2025,110519,2025,5
+0,u229,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,7022618,2022,2
+1,u229,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,5857577,2023,3
+2,u229,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,5356182,2024,4
+3,u229,CASH,Maintain Cash allocation,5,2021,4425927,2021,1
+4,u229,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,4287670,2028,8
+0,u230,CASH,Maintain Cash allocation,5,2021,1448239,2021,1
+1,u230,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,1422827,2022,2
+2,u230,GEN_CORP_BOND_2023,Generic corporate bond with maturity 2023,5,2023,1378227,2023,3
+3,u230,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,1208590,2026,6
+4,u230,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,1136885,2027,7
+0,u231,GEN_CORP_BOND_2043,Generic corporate bond with maturity 2043,5,2043,515898,2043,23
+1,u231,GEN_CORP_BOND_2044,Generic corporate bond with maturity 2044,5,2044,497111,2044,24
+2,u231,GEN_CORP_BOND_2032,Generic corporate bond with maturity 2032,5,2032,419847,2032,12
+3,u231,GEN_CORP_BOND_2034,Generic corporate bond with maturity 2034,5,2034,408953,2034,14
+4,u231,GEN_CORP_BOND_2035,Generic corporate bond with maturity 2035,5,2035,399566,2035,15
+0,u301,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,2446701,2031,11
+1,u301,GEN_CORP_BOND_2028,Generic corporate bond with maturity 2028,5,2028,1709940,2028,8
+2,u301,GEN_CORP_BOND_2025,Generic corporate bond with maturity 2025,5,2025,1384873,2025,5
+3,u301,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,1173098,2024,4
+4,u301,GEN_CORP_BOND_2034,Generic corporate bond with maturity 2034,5,2034,1092743,2034,14
+0,u302,GEN_CORP_BOND_2024,Generic corporate bond with maturity 2024,5,2024,4943334,2024,4
+1,u302,GEN_CORP_BOND_2026,Generic corporate bond with maturity 2026,5,2026,4719575,2026,6
+2,u302,CASH,Maintain Cash allocation,5,2021,3735518,2021,1
+3,u302,GEN_CORP_BOND_2042,Generic corporate bond with maturity 2042,5,2042,1494738,2042,22
+4,u302,GEN_CORP_BOND_2033,Generic corporate bond with maturity 2033,5,2033,1463355,2033,13
+0,u303,CASH,Maintain Cash allocation,5,2021,3255320,2021,1
+1,u303,GEN_CORP_BOND_2040,Generic corporate bond with maturity 2040,5,2040,24100,2040,20
+2,u303,GEN_CORP_BOND_2041,Generic corporate bond with maturity 2041,5,2041,24100,2041,21
+3,u303,GEN_CORP_BOND_2042,Generic corporate bond with maturity 2042,5,2042,24100,2042,22
+4,u303,GEN_CORP_BOND_2043,Generic corporate bond with maturity 2043,5,2043,24100,2043,23
+0,u304,GEN_CORP_BOND_2027,Generic corporate bond with maturity 2027,5,2027,1115610,2027,7
+1,u304,GEN_CORP_BOND_2031,Generic corporate bond with maturity 2031,5,2031,784170,2031,11
+2,u304,GEN_CORP_BOND_2037,Generic corporate bond with maturity 2037,5,2037,609681,2037,17
+3,u304,CASH,Maintain Cash allocation,5,2021,556303,2021,1
+4,u304,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,548628,2022,2
+0,u310,GEN_CORP_BOND_2022,Generic corporate bond with maturity 2022,5,2022,1928442,2022,2
+1,u310,CASH,Maintain Cash allocation,5,2021,1517671,2021,1
+0,u311,CASH,Maintain Cash allocation,5,2021,4540010,2021,1
