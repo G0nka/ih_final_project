@@ -6,21 +6,22 @@ from p_reporting import m_reporting as mre
 
 def argument_parser():
     parser = argparse.ArgumentParser(description = 'Set chart type')
-    parser.add_argument("-b", "--bar", help="Produce a barplot", action="store_true")
-    parser.add_argument("-l", "--line", help="Produce a lineplot", action="store_true")
     args = parser.parse_args()
     return args
 
-def main(some_args):
-    data = mac.acquire()
-    filtered = mwr.wrangle(data, year)
-    results = man.analyze(filtered)
-    fig = mre.plotting_function(results, title, arguments)
-    mre.save_viz(fig, title)
+def main():
+    print('======== Starting pipeline... ========')
+
+    assets, cf_liabs = mac.acquire_inputs()
+
+    combined_orig_cf, cf_liabs = mwr.wrangle(assets, cf_liabs)
+
+    assets_sell, assets_purchase, final_cf_combined = man.analyze_gaps(assets, combined_orig_cf, cf_liabs)
+
+    mre.save_results(assets_sell, assets_purchase, final_cf_combined)
+
     print('========================= Pipeline is complete. You may find the results in the folder ./data/results =========================')
 
 if __name__ == '__main__':
-    year = int(input('Enter the year: '))
-    title = 'Top 10 Manufacturers by Fuel Efficiency ' + str(year)
     arguments = argument_parser()
-    main(arguments)
+    main()
