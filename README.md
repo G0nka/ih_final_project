@@ -1,13 +1,12 @@
-# Data Project README file
+# ALM Optimizer
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
+## **Short introduction to ALM**
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+Asset and liability management (often abbreviated ALM) is the practice of managing financial risks that arise due to mismatches between the assets and liabilities as part of an investment strategy in financial accounting.
+
+ALM sits between risk management and strategic planning. It is focused on a long-term perspective rather than mitigating immediate risks and is a process of maximising assets to meet complex liabilities that may increase profitability.
+
+ALM includes the allocation and management of assets, equity, interest rate and credit risk management including risk overlays, and the calibration of company-wide tools within these risk frameworks for optimisation and management in the local regulatory and capital environment.
 
 ---
 
