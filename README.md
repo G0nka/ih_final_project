@@ -12,8 +12,8 @@ ALM includes the allocation and management of assets, equity, interest rate and 
 
 ## **Inputs**
 The required inputs to this pipeline are:
-    - A complete set of Assets with the following mandatory fields:
-        *Maturity Date
+- A complete set of Assets with the following mandatory fields:
+*Maturity Date
 
 ## **Start writing ASAP:**
 *Last but not least, by writing your README soon you give yourself some pretty significant advantages. Most importantly, you’re giving yourself a chance to think through the project without the overhead of having to change code every time you change your mind about how something should be organized or what should be included.*
